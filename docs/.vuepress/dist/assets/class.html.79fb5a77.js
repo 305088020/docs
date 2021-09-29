@@ -1,0 +1,1 @@
+const e={key:"v-87dddbcc",path:"/class.html",title:"class",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"标题2",slug:"标题2",children:[{level:3,title:"标题3",slug:"标题3",children:[]}]}],filePathRelative:"class.md",git:{updatedTime:1632893403e3,contributors:[{name:"刘中合",email:"305088020@qq.com",commits:1}]}};export{e as data};
