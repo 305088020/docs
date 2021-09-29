@@ -1,0 +1,1 @@
+const e={key:"v-87dddbcc",path:"/class.html",title:"class",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"标题2",slug:"标题2",children:[{level:3,title:"标题3",slug:"标题3",children:[]}]}],filePathRelative:"class.md",git:{}};export{e as data};
