@@ -1,0 +1,1 @@
+const e={key:"v-de33b5aa",path:"/Node/angular.html",title:"Hello VuePress",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"标题2",slug:"标题2",children:[{level:3,title:"标题3",slug:"标题3",children:[]}]}],filePathRelative:"Node/angular.md",git:{updatedTime:null,contributors:[]}};export{e as data};
